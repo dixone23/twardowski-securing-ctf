@@ -1,0 +1,8 @@
+body {
+  /* background-image: url("background.png") ; too big for final deployment ~jkramarz*/
+  background-image: url("background_lowreso.png");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  background-color: #ffffff;
+}
